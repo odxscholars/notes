@@ -17,7 +17,7 @@
 #### Example: Loan Pricing Model
 
 - **Visual Reference**:  
-  ![[Pasted image 20250121092024.png]]  
+  ![[references/Pasted image 20250121092024.png]]  
   *The image illustrates average loan rates by sector alongside potential loss rates.*
 
 - **Explanation**:  
