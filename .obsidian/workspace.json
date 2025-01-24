@@ -6,7 +6,6 @@
       {
         "id": "fb65fc34809488dd",
         "type": "tabs",
-        "dimension": 50,
         "children": [
           {
             "id": "179ea2023db03093",
@@ -25,12 +24,11 @@
         ]
       },
       {
-        "id": "27b621a03116e329",
+        "id": "1381ade29f3a8058",
         "type": "tabs",
-        "dimension": 50,
         "children": [
           {
-            "id": "6b9cd1461ce5092f",
+            "id": "6c50e8d56d42d8e0",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -99,7 +97,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 200,
+    "collapsed": true
   },
   "right": {
     "id": "03cd9659d1aecf66",
@@ -184,12 +183,13 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "ee39bcda99622c62",
+  "active": "179ea2023db03093",
   "lastOpenFiles": [
     "evergreen/FINRISD Notes 10-01.md",
+    "daily-work-log/1-24-25.md",
+    "daily-work-log/Untitled.md",
     "daily-work-log/1-21-25.md",
     "daily-work-log/1-22-25.md",
-    "daily-work-log/1-24-25.md",
     "references/Pasted image 20250122211336.png",
     "Untitled.canvas",
     "references/Pasted image 20250122211547.png",
