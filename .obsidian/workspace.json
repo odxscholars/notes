@@ -20,25 +20,40 @@
               "icon": "lucide-file",
               "title": "1-24-25"
             }
-          }
-        ]
-      },
-      {
-        "id": "1381ade29f3a8058",
-        "type": "tabs",
-        "children": [
+          },
           {
-            "id": "6c50e8d56d42d8e0",
+            "id": "58ac9d3846e5a56c",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "daily-work-log/1-24-25.md",
+                "file": "1-25-25.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "1-25-25"
+            }
+          }
+        ],
+        "currentTab": 1
+      },
+      {
+        "id": "ef461526c8328322",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "4b2b016a3bdfa91d",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "1-25-25.md",
                 "mode": "preview",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "1-24-25"
+              "title": "1-25-25"
             }
           }
         ]
@@ -183,10 +198,11 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "179ea2023db03093",
+  "active": "4b2b016a3bdfa91d",
   "lastOpenFiles": [
-    "evergreen/FINRISD Notes 10-01.md",
     "daily-work-log/1-24-25.md",
+    "1-25-25.md",
+    "evergreen/FINRISD Notes 10-01.md",
     "daily-work-log/Untitled.md",
     "daily-work-log/1-21-25.md",
     "daily-work-log/1-22-25.md",
@@ -197,7 +213,6 @@
     "references/Pasted image 20250122203229.png",
     "2025-01-22.md",
     "references/Pasted image 20250121101929.png",
-    "Untitled.md",
     "Untitled 1.md",
     "fleeting-notes",
     "evergreen",
